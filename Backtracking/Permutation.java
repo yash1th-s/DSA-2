@@ -1,5 +1,3 @@
-package Backtracking;
-
 public class Permutation {
 
     public static void findPermutation(String str, String ans){

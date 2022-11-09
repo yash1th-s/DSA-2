@@ -1,5 +1,3 @@
-package Backtracking;
-
 public class Subset {
 
     public static void findSubsets(String str, int i, String newStr){
